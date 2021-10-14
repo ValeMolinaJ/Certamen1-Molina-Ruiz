@@ -32,7 +32,7 @@ namespace Otec
             administrador admin2 = new administrador("Lourdes Benza", "18.354.154-8", "23658741", "Arturo prat 1578");
             sede Chillan = new sede(15, "Sede chillan", "Av. vicente mendez 1240", "422274277", admin2);
             coordinador coordinador2 = new coordinador("Alejandro Ruiz", "17.591.000-9", "89562314", "AV. matta 789");
-            asignatura asig1 = new asignatura(1, "Matemáticas");
+            asignatura asig1 = new asignatura(1, "Matemática");
             asignatura asig2 = new asignatura(2, "Lenguaje");
             asignatura asig4 = new asignatura(3, "Computación");
             List<asignatura> ListAsignatures = new List<asignatura>();
@@ -41,6 +41,19 @@ namespace Otec
             ListAsignatures.Add(asig4);
             curso SegundoCurso = new curso(2, "Asistente párvulo", coordinador2, ListAsignatures, Chillan);
             Console.WriteLine(SegundoCurso.datosCurso());
+
+            administrador admin3 = new administrador("Carolina Ruiz", "18.478.321-9", "78451236", "AV. los carrera 045");
+            sede Temuco = new sede(15, "Sede temuco", "Salvo 321", "424564789", admin3);
+            coordinador coordinador3 = new coordinador("Valentina Molina", "17.365.789-8", "78520394", "Campillo 784");
+            asignatura asig6 = new asignatura(1, "Matemática");
+            asignatura asig7 = new asignatura(2, "Contabilidad");
+            asignatura asig8 = new asignatura(3, "Computación II");
+            List<asignatura> ListAsignatu = new List<asignatura>();
+            ListAsignatu.Add(asig6);
+            ListAsignatu.Add(asig7);
+            ListAsignatu.Add(asig8);
+            curso TercerCurso = new curso(2, "ADMINISTRACION", coordinador3, ListAsignatu, Temuco);
+            Console.WriteLine(TercerCurso.datosCurso());
             Console.ReadKey();
 
         }
