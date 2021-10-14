@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Otec/1.0.0": {
+        "dependencies": {
+          "OtecLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Otec.dll": {}
+        }
+      },
+      "OtecLibrary/1.0.0": {
+        "runtime": {
+          "OtecLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Otec/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OtecLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

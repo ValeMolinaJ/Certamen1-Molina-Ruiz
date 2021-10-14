@@ -1,0 +1,12 @@
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\bin\Debug\net5.0\OtecLibrary.deps.json
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\bin\Debug\net5.0\OtecLibrary.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\bin\Debug\net5.0\ref\OtecLibrary.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\bin\Debug\net5.0\OtecLibrary.pdb
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\obj\Debug\net5.0\OtecLibrary.csprojAssemblyReference.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\obj\Debug\net5.0\OtecLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\obj\Debug\net5.0\OtecLibrary.AssemblyInfoInputs.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\obj\Debug\net5.0\OtecLibrary.AssemblyInfo.cs
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\obj\Debug\net5.0\OtecLibrary.csproj.CoreCompileInputs.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\obj\Debug\net5.0\OtecLibrary.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\obj\Debug\net5.0\ref\OtecLibrary.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen1-Molina-Ruiz\Certamen1\OtecLibrary\obj\Debug\net5.0\OtecLibrary.pdb
