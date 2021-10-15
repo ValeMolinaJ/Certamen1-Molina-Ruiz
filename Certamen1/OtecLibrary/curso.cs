@@ -34,12 +34,12 @@ namespace OtecLibrary
         }
         public int cantAsig(List<asignatura> asignatura)
         {
-            int contador = 0;
+            int cont = 0;
             foreach (var item in asignatura)
             {
-                contador++;
+                cont++;
             }
-            return contador;
+            return cont;
         }
 
         public string datosCurso()

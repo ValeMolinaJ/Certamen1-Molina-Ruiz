@@ -55,7 +55,6 @@ namespace Otec
             curso TercerCurso = new curso(2, "ADMINISTRACION", coordinador3, ListAsignatu, Temuco);
             Console.WriteLine(TercerCurso.datosCurso());
             Console.ReadKey();
-
         }
     }
 }
